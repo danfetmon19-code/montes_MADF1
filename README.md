@@ -1,10 +1,10 @@
 # MADF1 - Flutter Navigation, Forms, and User Input 
 ## Student Information 
-Full Name: 
-Section: 
+Full Name: Danielle F Montes
+Section: BSIT3B
 Course: Mobile Application Development 
 ## Repository 
-Name: last_name_MADF1 
+Name: montes_MADF1 
 ## Application 
 Student Registration and Profile Management Application 
 ## Technologies - Flutter - Dart - GitHub Codespaces 
